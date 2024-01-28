@@ -1,4 +1,3 @@
 # jamalcraft
- 
-hola senor
-fuy
+
+ Jamalcraft is a very serious project
