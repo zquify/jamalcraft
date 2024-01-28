@@ -30,13 +30,13 @@
 	},
 	"layouts": {
 		"items": [
-			"Layout 1"
+			"Game"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Event sheet 1"
+			"eGame"
 		],
 		"subfolders": []
 	},
